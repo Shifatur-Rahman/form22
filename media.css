@@ -1,0 +1,37 @@
+@media screen and (max-width:1100px){
+    .left_contact{
+        width: 100%;
+    }
+
+    .right_contact{
+        width: 100%;
+    }
+}
+@media screen and (max-width:768px){
+    .first_name{
+        width: 100%;
+        float: none;
+        margin-bottom: 30px;
+        }
+        .last_name{
+        width: 100%;
+        float: none;
+        }
+      
+        .email{
+        width: 100%;
+        float: none;
+        margin-bottom: 30px;
+        }
+        .phone{
+        width: 100%;
+        float: none;
+        }
+
+        #btn{
+            background-color: #474787;
+            padding: 15px 20px;
+            font-size: 12px;
+            text-align: center;
+        }
+}
